@@ -21,7 +21,7 @@ class TuneView extends StatelessWidget {
         elevation: 0,
         title: const Center(
           child: Text(
-            'Flutter tune',
+            'Flutter tune app',
             style: TextStyle(color: Colors.white),
           ),
         ),
